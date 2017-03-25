@@ -1,0 +1,30 @@
+find ./ -name sample_function.sh          
+find ./root -name sample_function.sh          
+find ./ -name sample_function.sh          
+find ./root -name sample_function.sh          
+find ./ -name sample_function.sh          
+find ./ -name hello          
+find ./root -name hello          
+find .// -name hello          
+find . -name hello          
+find ./ -name hello          
+find ./ type -d -name hello        
+find -name hello           
+find -name/ hello           
+find -name /hello           
+find ./ hello           
+find ./ -name hello          
+find ./ hello           
+find ./ hello           
+find ./ -name hello          
+find hello            
+find ./ -name sample_function.sh          
+find ./root -name sample_function.sh          
+find ./ -name sample_function.sh          
+find ./root -name sample_function.sh          
+find ./root -name sample_function.sh          
+find ./ -name sample_function.sh          
+find ./ -name sample_function.sh rm -i {} ;      
+find ./ -name test.txt -delete         
+find / -name test.txt -exec rm -i {} \;     
+find / -name test.txt -exec sed -i 's/find/replace/g' {} \;    
